@@ -28,3 +28,9 @@ console.log(numbers.includes(100));
 console.log(numbers.indexOf(44));
 
 //isArray() checks is it array or not.
+
+
+
+// join();
+// concate()
+// slice()
